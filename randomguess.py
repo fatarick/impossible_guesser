@@ -1,8 +1,6 @@
 import random
 import time
 
-print("Now its much harder!")
-time.sleep(1)
 print("Picking a random number...")
 time.sleep(2)
 
