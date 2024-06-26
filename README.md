@@ -22,4 +22,4 @@ If you are a lucky boy and AI guessed it, write if it exits the game or not.
 
 # Want a harder challenge?
 
-Check another "MinusPlus" branch that contains modified version of game that guesses from -999 Billion to 999 Billion. Good Luck!
+Check another "MinusPlus" branch that contains modified version of game that guesses from -999 Billion to 999 Billion. Or check two harder versions: "Hell" and "VeryHotHell" with same numbers but also you will need to guess it using decimal numbers, not just numbers.
