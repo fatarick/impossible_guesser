@@ -14,9 +14,10 @@ else:
     print("Oh no... I gueesed", y, ",Now you guess it!")
     while True:
      user_guess = input("Now you guess! ")
-     if user_guess==x:
+     if user_guess==str(x):
          print("You guessed it!")
          print("It was: ", x)
+         break
      else:
          print("Try Again!")
          
