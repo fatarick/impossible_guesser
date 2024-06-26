@@ -5,7 +5,7 @@ It's a simple game-script at python that generated a random decimal number from 
 When you write "Exit" or "exit" it writes "Try Again" and then exits the game.
 
 # How the "AI" works
-When the game is generating the decimal number with variable X to guess also with the game there is a same command to the variable Y. They generate two different decimal numbers and if they equal (Chance One To Trillion) the game exits (Maybe, i don't know). If it not guessed it right so its users turn to guess. Here's an example to code of two variables that generate number until 1000 and equal check.
+When the game is generating the decimal number with variable X to guess also with the game there is a same command to the variable Y. They generate two different decimal numbers and if they equal (Chance One To Trillion) the game exits (Maybe, i don't know). If it not guessed it right so its users turn to guess. Here's an example to code of two variables that generate number from 1 until 1000 and equal check.
 
 import random
 
