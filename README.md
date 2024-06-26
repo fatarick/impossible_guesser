@@ -20,4 +20,4 @@ if x==y: #Checks if its equal
 
 # Want a harder challenge?
 
-Check another "Hell" branch that contains modified version of game that guesses from 1 to 999 Billion, But now its with decimal number. Good Luck!
+Check another "Hell" and "VeryHotHell" branch that contains modified version of game that guesses from 1 and -999 Billion to 999 Billion, But now its with decimal number. Good Luck!
