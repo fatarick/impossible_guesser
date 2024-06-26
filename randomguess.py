@@ -6,8 +6,8 @@ time.sleep(1)
 print("Picking a random number...")
 time.sleep(2)
 
-x = random.uniform(1, 999999999999)
-y = random.uniform(1, 999999999999)
+x = random.randint(1, 999999999999)
+y = random.randint(1, 999999999999)
 
 if x==y:
     print("Yes, i guessed it!")
