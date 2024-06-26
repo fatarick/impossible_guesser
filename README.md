@@ -17,9 +17,6 @@ if x==y: #Checks if its equal
   else:
   print("No") #If its incorrect, it prints "No"
 
-# How you can help
-If you are a lucky boy and AI guessed it, write if it exits the game or not.
-
 # Want a harder challenge?
 
 Check another "VeryHotHell". Same as this branch but its from -999 billion to 999 billion.
