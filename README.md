@@ -20,4 +20,4 @@ if x==y: #Checks if its equal
 
 # Want a harder challenge?
 
-Check another "MinusPlus" branch that contains modified version of game that guesses from -999 Billion to 999 Billion. Or check two harder versions: "Hell" and "VeryHotHell" with same numbers but also you will need to guess it using decimal numbers, not just numbers.
+Check another "MinusPlus" branch that contains modified version of game that guesses from -999 Billion to 999 Billion. Or check two harder versions: "Hell" and "VeryHotHell" with same numbers but also you will need to guess it using decimal numbers, not just numbers. For Hell and VeryHotHell you can practice using PreHell.
